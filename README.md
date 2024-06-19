@@ -8,3 +8,5 @@ git checkout -b [ tên nhánh ] ( tạo nhánh mới và làm việc trên nhán
 git add . ( lưu lại all thay đổi )
 git commit -m "message"
 git push origin [ tên nhánh ]
+
+NHỚ GIT FETCH TRƯỚC KHI LÀM NHA MẤY THẰNG QUỶ :)))
