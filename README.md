@@ -2,7 +2,7 @@ BAKERY MANAGEMENT SYSTEM
 # SWR302-SU23-GROUP4
 SWR302-SU23-GROUP4
 Thành viên nhóm:
-- Nguyễn Tăng Tài Phát
+- Nguyễn Tăng Tài Phát (Leader)
 - Thái Bình Dương
 - Lưu Thế Vinh
 - Nguyễn Trung Kiên
